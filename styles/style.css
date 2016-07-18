@@ -1,0 +1,43 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	font-size: 20pt;
+	margin: 20px
+}
+.sketcher {
+    height: 500px;
+    width: 500px;
+    margin: 50px auto 0px auto;
+	padding: 0px;
+	line-height: 0px;
+	border: 1px solid black;
+	
+}
+
+.grid {
+    height: 10px;
+    width: 10px;
+    display:inline-block;
+    margin: auto;
+    padding: 0px;
+	border:0px;
+    
+}
+.highlight {
+    background-color: green;
+}
+
+#reset {
+	background-color: black;
+	color: black;
+	margin: 20px auto;
+	width: 100px;
+	display: block;
+}
+.text {
+	color: blue;
+	text-align: center;
+	font-family: Arial;
+}
